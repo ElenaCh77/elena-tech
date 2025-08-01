@@ -55,7 +55,7 @@ Focused on clean UI, responsive interaction, and user security.
 Created a mobile app in Android Studio to track fitness activities and goals.  
 Used **Kotlin**, **ViewModel**, and **data persistence** strategies to enable workout logging and progress visualization.  
 **Skills:** User Interface Design · Kotlin · ViewModel · Data Persistence
-
+[Click here](https://github.com/ElenaCh77/elena-tech/blob/main/FitnessApp.zip)
 ---
 
 ### 📡 QSTEM Academy – WSN Data Analysis  
