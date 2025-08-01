@@ -40,6 +40,7 @@ Applied algorithms like **linear regression** and **decision trees** using Pytho
 # Lab 7: Implement a Neural Network Using Keras  [Click here](https://github.com/ElenaCh77/elena-tech/blob/main/ImplementNeuralNetwork.ipynb)
 # Lab 6: Train Various Regression Models and Compare Their Performances [Click here](https://github.com/ElenaCh77/elena-tech/blob/main/ComparingRegressionModels.ipynb)
 
+Datesets uploaded above
 ---
 
 ### 💳 Banking App (iOS)  
@@ -74,6 +75,14 @@ Emphasized intuitive UX/UI and database-driven features with CRUD operations.
 **Skills:** PHP · JavaScript · Debugging · CRUD · Project Management
 
 ---
+
+💻 Bank Account Simulator (Java)
+📍 February 2024 – May 2024 | LaGuardia Community College
+Built a Java-based banking application to simulate essential account operations such as deposits, withdrawals, and balance tracking.
+Focused on object-oriented programming principles and clear user interaction via console-based interface.
+**Skills:** Java · Object-Oriented Programming (OOP) · Console Application Development
+
+[Click here](https://github.com/ElenaCh77/elena-tech/blob/main/project%20Java.zip)
 
 ## 🏆 Achievements
 
