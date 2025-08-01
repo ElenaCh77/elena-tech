@@ -38,7 +38,7 @@ Applied algorithms like **linear regression** and **decision trees** using Pytho
 **Skills:** Machine Learning Algorithms · Data Visualization
 # Lab 8: Define and Solve an ML Problem  [Click here](https://github.com/ElenaCh77/elena-tech/blob/main/DefineAndSolveMLProblem.ipynb)
 # Lab 7: Implement a Neural Network Using Keras  [Click here](https://github.com/ElenaCh77/elena-tech/blob/main/ImplementNeuralNetwork.ipynb)
-# Lab 6: Train Various Regression Models and Compare Their Performances [Click here] (https://github.com/ElenaCh77/elena-tech/blob/main/ComparingRegressionModels.ipynb)
+# Lab 6: Train Various Regression Models and Compare Their Performances [Click here](https://github.com/ElenaCh77/elena-tech/blob/main/ComparingRegressionModels.ipynb)
 
 ---
 
