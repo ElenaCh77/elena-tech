@@ -40,10 +40,10 @@ Applied algorithms like **linear regression** and **decision trees** using Pytho
 # Lab 7: Implement a Neural Network Using Keras  [Click here](https://github.com/ElenaCh77/elena-tech/blob/main/ImplementNeuralNetwork.ipynb)
 # Lab 6: Train Various Regression Models and Compare Their Performances [Click here](https://github.com/ElenaCh77/elena-tech/blob/main/ComparingRegressionModels.ipynb)
 
-Datesets uploaded above
+Datesets [Click here](https://github.com/ElenaCh77/elena-tech/blob/main/airbnbListingsData.zip) [Click here](https://github.com/ElenaCh77/elena-tech/blob/main/censusData.csv) 
 ---
 
-### 💳 Banking App (iOS)  
+### 💳 Expense Tracker (iOS)  
 📍 *Sep 2024 – Dec 2024* | LaGuardia Community College  
 Developed an iOS banking app using **Swift** and **Xcode** to simulate core features such as account balance display, transaction history, and login.  
 Focused on clean UI, responsive interaction, and user security.  
