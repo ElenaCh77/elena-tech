@@ -1,5 +1,5 @@
 # elena-tech
-# 👋 Hi, I'm Elena Chagaeva
+# 👋 Hi, I'm Elena 
 
 🎓 Programming & Software Development student at LaGuardia Community College (GPA: 3.9)  
 🔐 B.S. in Computer Science & Information Security student at John Jay College  
