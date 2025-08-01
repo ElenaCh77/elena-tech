@@ -36,6 +36,9 @@ Canva, Adobe Photoshop, MS Office
 Explored core machine learning concepts through hands-on projects involving data preprocessing, model training, and evaluation.  
 Applied algorithms like **linear regression** and **decision trees** using Python libraries such as **NumPy, Pandas, and scikit-learn**.  
 **Skills:** Machine Learning Algorithms · Data Visualization
+# Lab 8: Define and Solve an ML Problem
+
+[Uploading DefineAndSolveMLProblem.ipynb…]()
 
 ---
 
